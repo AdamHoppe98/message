@@ -1,0 +1,9 @@
+h1 {
+    background-color: black;
+    color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    height: 20px;
+    width: 30px;
+
+}
